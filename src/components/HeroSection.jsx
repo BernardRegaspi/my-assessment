@@ -30,7 +30,7 @@ const HeroSection = () => {
             Browse Properties
           </button>
           <button className="border-2 border-white text-white hover:bg-white hover:text-gray-900 font-semibold py-4 px-8 rounded-lg text-lg transition-all duration-300 transform hover:scale-105">
-            Contact Marci
+            Contact Me
           </button>
         </div>
         
@@ -41,7 +41,7 @@ const HeroSection = () => {
             <div className="text-xs sm:text-sm md:text-base text-gray-300">Homes Sold</div>
           </div>
           <div className="flex flex-col items-center">
-            <div className="text-2xl sm:text-3xl md:text-4xl font-bold text-blue-400 mb-2">15+</div>
+            <div className="text-2xl sm:text-3xl md:text-4xl font-bold text-blue-400 mb-2">30+</div>
             <div className="text-xs sm:text-sm md:text-base text-gray-300">Years Experience</div>
           </div>
           <div className="flex flex-col items-center">

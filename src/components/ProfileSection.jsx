@@ -13,9 +13,6 @@ const ProfileSection = () => {
                 alt="Marci Metzger - Professional Realtor"
                 className="w-48 h-48 sm:w-56 sm:h-56 md:w-64 md:h-64 lg:w-96 lg:h-96 xl:w-[28rem] xl:h-[28rem] 2xl:w-[32rem] 2xl:h-[32rem] object-cover rounded-full shadow-2xl border-4 border-white"
               />
-              {/* Decorative elements - responsive sizing */}
-              <div className="absolute -bottom-2 -right-2 sm:-bottom-3 sm:-right-3 lg:-bottom-6 lg:-right-6 xl:-bottom-8 xl:-right-8 2xl:-bottom-10 2xl:-right-10 w-12 h-12 sm:w-16 sm:h-16 lg:w-24 lg:h-24 xl:w-32 xl:h-32 2xl:w-40 2xl:h-40 bg-blue-600 rounded-full opacity-20"></div>
-              <div className="absolute -top-2 -left-2 sm:-top-3 sm:-left-3 lg:-top-6 lg:-left-6 xl:-top-8 xl:-left-8 2xl:-top-10 2xl:-left-10 w-8 h-8 sm:w-10 sm:h-10 lg:w-16 lg:h-16 xl:w-20 xl:h-20 2xl:w-24 2xl:h-24 bg-blue-400 rounded-full opacity-30"></div>
             </div>
           </div>
 

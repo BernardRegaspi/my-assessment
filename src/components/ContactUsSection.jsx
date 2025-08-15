@@ -267,28 +267,6 @@ const ContactUsSection = () => {
             </div>
           </div>
         </div>
-
-        {/* Additional Contact Options */}
-        <div className="mt-16 bg-blue-600 rounded-2xl p-8 sm:p-12 text-white text-center">
-          <h3 className="text-2xl sm:text-3xl font-bold mb-4">
-            Need Immediate Assistance?
-          </h3>
-          <p className="text-lg mb-8 opacity-90">
-            For urgent matters or after-hours inquiries, don't hesitate to call. 
-            I'm committed to providing exceptional service whenever you need it.
-          </p>
-          <div className="flex flex-col sm:flex-row gap-4 justify-center">
-            <a
-              href={`tel:${businessInfo.phone}`}
-              className="bg-white text-blue-600 hover:bg-gray-100 font-bold py-4 px-8 rounded-lg transition-all duration-300 transform hover:scale-105 shadow-lg"
-            >
-              Call {businessInfo.phone}
-            </a>
-            <button className="border-2 border-white text-white hover:bg-white hover:text-blue-600 font-bold py-4 px-8 rounded-lg transition-all duration-300 transform hover:scale-105">
-              Schedule Appointment
-            </button>
-          </div>
-        </div>
       </div>
     </section>
   );

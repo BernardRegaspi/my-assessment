@@ -193,7 +193,7 @@ const GallerySection = () => {
             </div>
             <div className="flex justify-between text-sm text-gray-400 mt-2">
               <span>{currentIndex + 1} of {galleryImages.length}</span>
-              <span>{isAutoPlaying ? 'Auto-playing' : 'Paused'}</span>
+              {/* <span>{isAutoPlaying ? 'Auto-playing' : 'Paused'}</span> */}
             </div>
           </div>
         </div>

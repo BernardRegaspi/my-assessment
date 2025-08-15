@@ -422,25 +422,6 @@ const FindYourHomeSection = () => {
           </button>
           <p className="text-gray-500 mt-4">Showing 6 of 24 properties</p>
         </div>
-
-        {/* Contact CTA */}
-        <div className="mt-16 bg-blue-600 rounded-2xl p-8 sm:p-12 text-white text-center">
-          <h3 className="text-2xl sm:text-3xl font-bold mb-4">
-            Can't Find What You're Looking For?
-          </h3>
-          <p className="text-lg mb-8 opacity-90 max-w-2xl mx-auto">
-            Let Marci help you find the perfect home. With access to exclusive listings and deep local knowledge, 
-            she can find properties that match your exact needs.
-          </p>
-          <div className="flex flex-col sm:flex-row gap-4 justify-center">
-            <button className="bg-white text-blue-600 hover:bg-gray-100 font-bold py-4 px-8 rounded-lg transition-all duration-300 transform hover:scale-105">
-              Contact Marci
-            </button>
-            <button className="border-2 border-white text-white hover:bg-white hover:text-blue-600 font-bold py-4 px-8 rounded-lg transition-all duration-300 transform hover:scale-105">
-              Custom Home Search
-            </button>
-          </div>
-        </div>
       </div>
     </section>
   );

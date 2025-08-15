@@ -92,7 +92,7 @@ const FooterSection = () => {
             
             <p className="text-gray-300 mb-6 leading-relaxed">
               Your trusted real estate partner in Pahrump and surrounding areas. 
-              With over 15 years of experience, we help you find your perfect home 
+              With over 30 years of experience, we help you find your perfect home 
               or sell your property for the best value.
             </p>
 

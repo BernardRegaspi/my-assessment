@@ -133,28 +133,7 @@ const OurServicesSection = () => {
               <div className="absolute top-0 left-0 w-full h-1 bg-gradient-to-r from-blue-400 to-blue-600 rounded-t-2xl opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
             </div>
           ))}
-        </div>
-
-        {/* Call to Action */}
-        <div className="mt-16 text-center">
-          <div className="bg-gray-50 rounded-2xl p-8 sm:p-12">
-            <h3 className="text-2xl sm:text-3xl font-bold text-gray-900 mb-4">
-              Ready to Get Started?
-            </h3>
-            <p className="text-lg text-gray-600 mb-8 max-w-2xl mx-auto">
-              Whether you're buying, selling, or investing, I'm here to provide expert guidance 
-              and personalized service tailored to your unique needs.
-            </p>
-            <div className="flex flex-col sm:flex-row gap-4 justify-center">
-              <button className="bg-blue-600 hover:bg-blue-700 text-white font-semibold py-4 px-8 rounded-lg transition-all duration-300 transform hover:scale-105 shadow-lg hover:shadow-xl">
-                Schedule Consultation
-              </button>
-              <button className="border-2 border-blue-600 text-blue-600 hover:bg-blue-600 hover:text-white font-semibold py-4 px-8 rounded-lg transition-all duration-300 transform hover:scale-105">
-                View Our Portfolio
-              </button>
-            </div>
-          </div>
-        </div>
+        </div>     
 
         {/* Stats Section */}
         <div className="mt-16 grid grid-cols-2 md:grid-cols-4 gap-8 text-center">
@@ -163,7 +142,7 @@ const OurServicesSection = () => {
             <div className="text-gray-600">Homes Sold</div>
           </div>
           <div className="bg-white rounded-xl p-6 shadow-lg">
-            <div className="text-3xl font-bold text-blue-600 mb-2">15+</div>
+            <div className="text-3xl font-bold text-blue-600 mb-2">30+</div>
             <div className="text-gray-600">Years Experience</div>
           </div>
           <div className="bg-white rounded-xl p-6 shadow-lg">
